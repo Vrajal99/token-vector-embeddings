@@ -1,5 +1,5 @@
 # Tokenization and Embeddings for NLP - Phase 1
-```markdown
+
 # Understanding Tokenization and Embeddings for NLP
 
 ## Project Description:
@@ -72,5 +72,3 @@ For Hugging Face and OpenAI API usage, you will also need API tokens/keys:
 3.  Install the required libraries.
 4.  Replace placeholder API tokens/keys with your actual credentials.
 5.  Run the cells sequentially to understand tokenization, vector operations, and embeddings.
-
-```
